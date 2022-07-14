@@ -1,0 +1,16 @@
+{
+	"id": "1",
+	"username": "TestUser",
+	"email": "test@mail.ru",
+	"provider": "local",
+	"confirmed": false,
+	"blocked": false,
+	"role": {
+		"id": 1,
+		"name": "Authenticated",
+		"description": "Default role given to authenticated user.",
+		"type": "authenticated"
+	},
+	"createdDate": 1655990094181,
+	"updatedDate": 1657543414198
+}

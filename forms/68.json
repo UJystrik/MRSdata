@@ -1,0 +1,128 @@
+{
+	"id": "62b31386090b72010f000004",
+	"scheme": {
+		"form": {
+			"login": [
+				{
+					"name": "identifier",
+					"type": "text",
+					"label": {
+						"id": "users-permissions.Auth.form.login.username.label"
+					},
+					"placeholder": "users-permissions.Auth.form.login.username.placeholder",
+					"customBootstrapClass": "col-md-12"
+				},
+				{
+					"name": "password",
+					"type": "password",
+					"label": {
+						"id": "users-permissions.Auth.form.login.password.label"
+					},
+					"customBootstrapClass": "col-md-12"
+				},
+				{
+					"name": "rememberMe",
+					"type": "checkbox",
+					"label": {
+						"id": "users-permissions.Auth.form.login.rememberMe.label"
+					},
+					"customBootstrapClass": "col-md-6"
+				}
+			],
+			"register": [
+				{
+					"name": "username",
+					"type": "text",
+					"label": {
+						"id": "users-permissions.Auth.form.register.username.label"
+					},
+					"placeholder": "users-permissions.Auth.form.register.username.placeholder",
+					"customBootstrapClass": "col-md-12"
+				},
+				{
+					"name": "password",
+					"type": "password",
+					"label": {
+						"id": "users-permissions.Auth.form.register.password.label"
+					},
+					"customBootstrapClass": "col-md-12"
+				},
+				{
+					"name": "confirmPassword",
+					"type": "password",
+					"label": {
+						"id": "users-permissions.Auth.form.register.confirmPassword.label"
+					},
+					"customBootstrapClass": "col-md-12"
+				},
+				{
+					"name": "email",
+					"type": "email",
+					"label": {
+						"id": "users-permissions.Auth.form.register.email.label"
+					},
+					"placeholder": "users-permissions.Auth.form.register.email.placeholder",
+					"customBootstrapClass": "col-md-12"
+				},
+				{
+					"name": "news",
+					"type": "checkbox",
+					"label": {
+						"id": "users-permissions.Auth.form.register.news.label"
+					},
+					"value": true,
+					"customBootstrapClass": "col-md-12"
+				}
+			],
+			"reset-password": [
+				{
+					"name": "password",
+					"type": "password",
+					"label": {
+						"id": "users-permissions.Auth.form.register.password.label"
+					},
+					"customBootstrapClass": "col-md-12"
+				},
+				{
+					"name": "passwordConfirmation",
+					"type": "password",
+					"label": {
+						"id": "users-permissions.Auth.form.register.confirmPassword.label"
+					},
+					"customBootstrapClass": "col-md-12"
+				}
+			],
+			"forgot-password": [
+				{
+					"name": "email",
+					"type": "email",
+					"label": {
+						"id": "users-permissions.Auth.form.forgot-password.email.label"
+					},
+					"placeholder": "users-permissions.Auth.form.forgot-password.email.placeholder",
+					"customBootstrapClass": "col-md-12"
+				}
+			],
+			"register-success": [
+				{
+					"name": "email",
+					"type": "email",
+					"label": {
+						"id": "users-permissions.Auth.form.register-success.email.label"
+					},
+					"placeholder": "users-permissions.Auth.form.register-success.email.placeholder",
+					"customBootstrapClass": "col-md-12"
+				}
+			]
+		}
+	},
+	"title": null,
+	"description": null,
+	"isArchived": false,
+	"code": null,
+	"fieldsForMappedTable": null,
+	"published_at": "2022-07-07T12:39:26.081Z",
+	"tags": [],
+	"createdDate": 1657197566109,
+	"updatedDate": 1657197566109
+}

@@ -1,0 +1,9 @@
+{
+	"id": "62b6ef4d79cd780054000009",
+	"title": "Hook1",
+	"hookType": "viewUpdate",
+	"function": "{\n  \"types\": {\n    \"products\": true,\n    \"receipts\": false,\n    \"shifts\": true,\n    \"encashments\": false,\n    \"devices\": false,\n    \"operations\": true\n  },\n}",
+	"form": null,
+	"createdDate": 1657543347408,
+	"updatedDate": 1657543347757
+}
